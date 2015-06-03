@@ -2,6 +2,10 @@
 Changelog
 ^^^^^^^^^
 
+0.1.35 (2015-06-03)
+===================
+* bugfix for environment hooks when workspaces have spaces
+
 0.1.34 (2014-06-12)
 ===================
 * assist rospack to speedup by ignoring the installed maven directories.
